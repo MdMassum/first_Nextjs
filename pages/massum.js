@@ -1,4 +1,4 @@
-export default function massum() {
+export default function Massum() {
     return (
       <h1>Massum </h1>
     )

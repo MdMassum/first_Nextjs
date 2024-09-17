@@ -3,7 +3,7 @@ import { useRouter } from "next/router"
 // router.push saves all links in history
 // router.replace dont saves history and is used redirect after correct login
 // router.reload -> reloads the page
-export default function setting() {
+export default function Setting() {
 
     const router = useRouter();
     console.log(router);

@@ -4,7 +4,7 @@ import useSWR from "swr";
 
 // all about client side rendering and routing
 
-export default function home() {
+export default function Home() {
 
   // instead of this we can use swr for client side fetching swr is more optimal as it use caching
   // const [users,setUser] = useState([]);
